@@ -1,4 +1,4 @@
-# EX05 Server Side Processing – Login System using Django
+# EXP05 Server Side Processing (Login System) using Django
 
 **Date:** 20/11/2025  
 
@@ -98,3 +98,4 @@ def home(request):
 ## RESULT:
 
 The Server Side Processing (SSP) Login System using Django was successfully developed, executed, and tested.
+
