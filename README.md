@@ -1,6 +1,6 @@
 # EXP05 Server Side Processing (Login System) using Django
 
-**Date:** 20/11/2025  
+### Date: 09/10/2025  
 
 ---
 
@@ -93,9 +93,13 @@ def home(request):
 ```
 
 ## OUTPUT:
+<img width="1919" height="912" alt="logn2" src="https://github.com/user-attachments/assets/3727a4e5-24ff-4fa8-8017-4a9bf12ba23d" />
+
+<img width="1919" height="969" alt="logn1" src="https://github.com/user-attachments/assets/e8f1151a-71af-47eb-a28e-8b5af265d771" />
 
 
 ## RESULT:
 
 The Server Side Processing (SSP) Login System using Django was successfully developed, executed, and tested.
+
 
